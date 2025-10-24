@@ -1,0 +1,4 @@
+# diga ao Git para NÃO tratar PDFs como texto
+*.pdf -text
+# (alternativa equivalente)
+# *.pdf binary
